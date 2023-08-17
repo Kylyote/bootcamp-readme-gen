@@ -47,7 +47,7 @@ ${tests}
 For questions you can contact me at my [GitHub account](https://github.com/${github}).
 I can also be emailed at <a href="mailto:${questionEmail}">${questionEmail}</a>.
 
-### [Back to Top](#Description)`
+### [Back to Top](#description)`
 }
 
 // Inquirer questions and options. Need sections for Title, Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions

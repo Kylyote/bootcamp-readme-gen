@@ -44,3 +44,7 @@ THEN I am taken to the corresponding section of the README
 ## Link to Repo:
 
 https://github.com/Kylyote/bootcamp-readme-gen
+
+## Link to Video:
+
+https://drive.google.com/file/d/1VVHZgJB7pdj3sRhAB1-ZVt_iisZUuCSg/view
